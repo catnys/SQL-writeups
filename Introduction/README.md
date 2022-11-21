@@ -2,7 +2,7 @@
 
 ## 🌟Before Starting... 
 
-Hello everyone, I'm eleanoir, I'd like to prepare these writeups (hopefully I can continue with full motivation to write 'em :D) so that practice in creating tables in SQL worl, so lets get started.
+Hello everyone, I'm meowiss, I'd like to prepare these writeups (hopefully I can continue with full motivation to write 'em :D) so that practice in creating tables in SQL worl, so lets get started.
 
 
 ## 🍪 What is SQL ?
