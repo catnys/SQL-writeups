@@ -237,8 +237,8 @@ SELECT WorkerId, Last, First FROM worker;
 
 | Constraint Type | Attribute Name | Data Type    |
 | --------------- | -------------- | ------------ |
-| `PK`            | qualId         | number(3)    |
-|                 | qualDesc       | varchar2(20) |
+| `PK`            | posId         | number(3)    |
+|                 | posDesc       | varchar2(20) |
 
 ### `Emplevel`
 
@@ -271,6 +271,8 @@ SELECT WorkerId, Last, First FROM worker;
 
 The image below also shows the relationship among tables.
 
+![](https://i.imgur.com/rZZzqLA.png)
 
-![](https://i.imgur.com/4n5DeZT.png)
+
+![](https://i.imgur.com/kt0bzHx.png)
 
