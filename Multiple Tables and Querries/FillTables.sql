@@ -1,7 +1,3 @@
------------------------------
---CHAPTER 2 INSERT / UPDATE--
------------------------------
-
 INSERT INTO position VALUES (1, 'President');
 INSERT INTO position VALUES (2, 'Manager');
 INSERT INTO position VALUES (3, 'Programmer');
