@@ -266,6 +266,8 @@ Well, I have a pretty good example about creating tables in SQL. You can both fi
 * `Unique`: Unique Key
 
 
+## Tables and Rows
+
 ### `Employee`
 
 | Constraint Type | Attribute Name | Data Type    |
@@ -293,8 +295,8 @@ Well, I have a pretty good example about creating tables in SQL. You can both fi
 
 | Constraint Type | Attribute Name | Data Type    |
 | --------------- | -------------- | ------------ |
-| `PK`            | qualId         | number(3)    |
-|                 | qualDesc       | varchar2(20) |
+| `PK`            | posId         | number(3)    |
+|                 | posDesc       | varchar2(20) |
 
 ### `Emplevel`
 
@@ -327,8 +329,10 @@ Well, I have a pretty good example about creating tables in SQL. You can both fi
 
 The image below also shows the relationship among tables.
 
+![](https://i.imgur.com/rZZzqLA.png)
 
-![](https://i.imgur.com/4n5DeZT.png)
+
+![](https://i.imgur.com/kt0bzHx.png)
 
 Now, please feel free to go ahead and check the tables and try yourself. You can also find the answers in the folder.
 
