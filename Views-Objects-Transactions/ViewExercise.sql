@@ -1,3 +1,6 @@
+======================
+-- Exercise Answers --
+======================
 --Question 1
 CREATE OR REPLACE VIEW EMP_VU AS 
 SELECT EMPLOYEEID, LNAME, FNAME, POSITIONID, SUPERVISOR, HIREDATE, DEPTID, QUALID FROM EMPLOYEE;
