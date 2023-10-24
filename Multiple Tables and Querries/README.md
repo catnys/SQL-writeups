@@ -200,8 +200,6 @@ INTERSECT
 SELECT WorkerId, Last, First FROM worker;
 ```
 
-![](https://i.imgur.com/2Opk2cT.png)
-
 
 
 
