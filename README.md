@@ -11,7 +11,7 @@ SQL, which stands for Structured Query Language, is like a magical incantation t
 
 ### SQL Examples: Unveiling the Magic
 
-In our enchanted `sql_examples/` directory, you'll find a treasure trove of SQL examples for various use cases:
+In our enchanted `SQL-writeups/` directory, you'll find a treasure trove of SQL examples for various use cases:
 
 - **Basic SELECT Statements:** These are your first spells, showing you how to retrieve data from a single table.
 - **Joins:** Like a magical fusion of elements, we'll teach you how to combine data from multiple tables using different types of joins.
