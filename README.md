@@ -43,7 +43,6 @@ In addition to these magical examples, we offer you a magical grimoire filled wi
 
 We wholeheartedly welcome you to join our magical coven of contributors! If you possess enchantments, new spells, or hidden scrolls of wisdom to share, please open a pull request and share your magical gifts. Together, we can make this repository an even more wondrous and enchanting resource for all.
 
---- 
 
 ## License: The Enchanting Oath
 
