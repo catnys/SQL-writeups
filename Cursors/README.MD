@@ -1,6 +1,6 @@
 # Cursors
 
-## What is the Cursor ?
+## What is a cursor ?
 
 When you execute an SQL statement from a PL/SQL block, Oracle assigns a private work area for that statement. That work area, called a “cursor”, stores the statement and the results returned by execution of that statement. A cursor is either created implicitly or explicitly. There are two types of Cursors
 
