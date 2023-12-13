@@ -41,7 +41,6 @@ INSERT INTO dependent VALUES (543, 1, TO_DATE ('09/28/1958', 'mm/dd/yyyy'), 'Spo
 INSERT INTO dependent VALUES (543, 2, TO_DATE ('10/14/1988', 'mm/dd/yyyy'), 'Son');
 INSERT INTO dependent VALUES (200, 1, TO_DATE ('06/10/1976', 'mm/dd/yyyy'), 'Spouse');
 INSERT INTO dependent VALUES (222, 1, TO_DATE ('02/04/1975', 'mm/dd/yyyy'), 'Spouse');
-
 UPDATE dept SET employeeId=123 WHERE deptId=10;
 UPDATE dept SET employeeId=543 WHERE deptId=20;
 UPDATE dept SET employeeId=135 WHERE deptId=30;
