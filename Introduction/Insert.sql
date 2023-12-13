@@ -44,4 +44,4 @@ INSERT INTO dependent VALUES (222, 1, TO_DATE ('02/04/1975', 'mm/dd/yyyy'), 'Spo
 UPDATE dept SET employeeId=123 WHERE deptId=10;
 UPDATE dept SET employeeId=543 WHERE deptId=20;
 UPDATE dept SET employeeId=135 WHERE deptId=30;
-UPDATE dept SET employeeId=246 WHERE deptId=40;
+UPDATE dept SET employeeId=246 WHERE deptId=50;
