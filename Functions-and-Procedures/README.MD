@@ -1,8 +1,5 @@
 # Named Blocks: Procedures and Functions
 
-
-
-
 ---
 
 
