@@ -3,7 +3,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
-**Hello! 💫**  This is your delightful gateway to the captivating universe of SQL and PL/SQL programming languages. Whether you're a complete beginner or a seasoned developer, you're about to embark on a magical journey filled with examples and resources that will help you sparkle in the world of database programming.
+**Hey folks! 💫**  This is your delightful gateway to the captivating universe of SQL and PL/SQL programming languages. Whether you're a complete beginner or a seasoned developer, you're about to embark on a magical journey filled with examples and resources that will help you sparkle in the world of database programming.
 
 ## SQL: The Charming Spell of Data
 
