@@ -19,6 +19,7 @@ create table emplevel(levelNo number(3) primary key, lowSalary number(6), highSa
 
 create table dept(deptId number(3) primary key, deptname varchar2(20), location varchar2(20), employeeId number(5));
 
+--
 create table employee(
 employeeId number(5) primary key, 
 lname varchar2(20) NOT NULL, 
