@@ -1,4 +1,4 @@
---Delete Existing Tables (if any)
+-- Delete Existing Tables (if any)
 drop table employee cascade constraints;
 drop table qualification cascade constraints;
 drop table emplevel cascade constraints;
@@ -6,7 +6,7 @@ drop table dependent cascade constraints;
 drop table dept cascade constraints;
 drop table position cascade constraints;
 
---Create Employee DB Tables and Constraints
+-- Create Employee DB Tables and Constraints
 create table qualification(qualId number(3) primary key, qualDesc varchar2(20));
 
 create table position(positionId number(3) primary key, positionDesc varchar2(20));
