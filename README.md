@@ -1,7 +1,28 @@
 # Welcome to the Enchanting World of SQL and PL/SQL ✨
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+[![GitHub issues](https://img.shields.io/github/issues/aintburak/SQL-writeups?style=for-the-badge&labelColor=blue)](https://github.com/aintburak/SQL-writeups/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/aintburak/SQL-writeups?style=for-the-badge&labelColor=green)](https://github.com/aintburak/SQL-writeups/pulls)  [![GitHub stars](https://img.shields.io/github/stars/aintburak/SQL-writeups?style=for-the-badge&labelColor=yellow)](https://github.com/aintburak/SQL-writeups/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/aintburak/SQL-writeups?style=for-the-badge&labelColor=orange)](https://github.com/aintburak/SQL-writeups/forks)  [![GitHub watchers](https://img.shields.io/github/watchers/aintburak/SQL-writeups?style=for-the-badge&labelColor=purple)](https://github.com/aintburak/SQL-writeups/watchers)  ![GitHub](https://img.shields.io/github/license/aintburak/SQL-writeups?style=for-the-badge)
+
+###### tags: `SQL` `Database` `Writeups`
+
+---
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">SQL Writeups</h3>
+  <div align="center">
+    In-depth explorations, solutions, and explanations for various SQL challenges and problems.
+    <br />
+    <a href="https://github.com/aintburak/SQL-writeups">Repository Link</a>
+    ·
+    <a href="https://github.com/aintburak/SQL-writeups/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/aintburak/SQL-writeups/pulls">Contribute</a>
+  </div>
+</div>
+
+---
 
 **Hey folks! 💫**  This is your delightful gateway to the captivating universe of SQL and PL/SQL programming languages. Whether you're a complete beginner or a seasoned developer, you're about to embark on a magical journey filled with examples and resources that will help you sparkle in the world of database programming.
 
