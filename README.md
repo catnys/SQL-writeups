@@ -3,7 +3,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/aintburak/SQL-writeups?style=for-the-badge&labelColor=blue)](https://github.com/aintburak/SQL-writeups/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/aintburak/SQL-writeups?style=for-the-badge&labelColor=green)](https://github.com/aintburak/SQL-writeups/pulls)  [![GitHub stars](https://img.shields.io/github/stars/aintburak/SQL-writeups?style=for-the-badge&labelColor=yellow)](https://github.com/aintburak/SQL-writeups/stargazers)  [![GitHub forks](https://img.shields.io/github/forks/aintburak/SQL-writeups?style=for-the-badge&labelColor=orange)](https://github.com/aintburak/SQL-writeups/forks)  [![GitHub watchers](https://img.shields.io/github/watchers/aintburak/SQL-writeups?style=for-the-badge&labelColor=purple)](https://github.com/aintburak/SQL-writeups/watchers)  ![GitHub](https://img.shields.io/github/license/aintburak/SQL-writeups?style=for-the-badge)
 
-###### tags: `SQL` `PLSQL` `Database` `Writeups`
+###### tags: `SQL` `PLSQL` `Database`
 
 ---
 
